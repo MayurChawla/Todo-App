@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: darkblue;
+}
+input {
+  border: 1px solid darkblue;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  width: 65%;
+  font-size: 1rem;
+  /* display : block; */
+}
+button {
+  display: block;
+  margin: 20px auto;
+  color: darkblue;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid darkblue;
+}
