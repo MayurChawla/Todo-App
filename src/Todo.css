@@ -1,0 +1,10 @@
+.todo-div {
+  align-items: center;
+}
+.todo-span {
+  display: inline;
+}
+.todo-button {
+  display: inline;
+  margin-left: 20px;
+}
